@@ -5,4 +5,4 @@ To get my Master's Degree in Data Science, I wrote the code, the text, and made 
 - categorical variables encoding through one-hot and man target encoding;
 - machine learning for prediction (10 models in total).
 
-![Diploma Thesis Presentation - Allaiarova](https://github.com/IulliaK/Diploma_code/commit/4f8bc71a8430348c2c181091f85d836855f87108)
+![Diploma Thesis Presentation - Allaiarova](https://github.com/IulliaK/Diploma_code/assets/95864783/eafd3faa-3a6a-446b-9c87-abe6d0ea15af)
